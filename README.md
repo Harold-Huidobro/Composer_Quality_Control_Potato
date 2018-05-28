@@ -3,7 +3,7 @@ Blockchain network archive que contiene el sistema que se desarrollo en Composer
 
 Integrantes:
 
-Monica Alexandra Chavez LLancay
-Flor Azucena Mansilla Gonzalez
-Yennifer Calvo Ccallo
+Monica Alexandra Chavez Llancay /n
+Flor Azucena Mansilla Gonzalez /n
+Yennifer Calvo Ccallo/n
 Harold Huidobro Casas

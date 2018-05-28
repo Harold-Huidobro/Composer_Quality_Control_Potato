@@ -1,5 +1,5 @@
 # Composer_Quality_Control_Potato AGROGEEKS
-Blockchain network archive que contiene el sistema que se desarrollo en Composer para el AgroHack CUsco 2018
+Blockchain network archive que contiene el sistema que se desarrollo en Composer para el AgroHack Cusco 2018
 
 Integrantes:
 
